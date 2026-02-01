@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/kp9_exe.dir/link.d CMakeFiles/kp9_exe.dir/KP9.c.o -o kp9_exe
